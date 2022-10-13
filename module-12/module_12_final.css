@@ -1,0 +1,278 @@
+body {
+    background-color: #F5F5DC;
+}
+header {
+    background-color: #806517;
+    text-align: center;
+    padding: 5px;
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+    font-weight: bold;
+}
+nav {
+	text-align: center;
+    margin-left: 25%;
+    margin-right: 28%;
+}
+nav ul { 
+	list-style-type: none;
+	margin: 2em;
+}
+nav ul li {
+    border: 3px ridge black;
+	font-family:'PT Sans Narrow', Arial, sans-serif ;
+	font-size: 14pt;
+    background-color: #806517;
+	display: inline;
+    margin: 60px;
+    padding: 5px;
+}
+a:link {
+	color: #FFA500;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:visited {
+	color: #FFA500;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:hover {
+	color: #FFFF00;
+	background-color: transparent;
+	text-decoration: underline;
+}
+a:active {
+	color: red;
+	background-color: transparent;
+	text-decoration: underline;
+}
+#welcome {
+    text-align: center;
+    font-size: 14pt;
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+}
+h2 {
+    text-align: center;
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+    font-weight: bold;
+}
+.hobby_card1_title {
+    text-align: center;
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+    font-weight: bold;
+}
+.hobby_card1_content {
+    padding: 2px;
+}
+.hobby_card1_pics {
+    margin-left: 24.5px;
+    margin-bottom: 32%;
+}
+#epcover {
+    width: 150px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px #666666;
+}
+#mixtape {
+    width: 150px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px #666666;
+}
+#round1 {
+    width: 150px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px #666666;
+}
+.pic1, .pic2, .pic3 {
+    width: 180px;
+    margin: 5px;
+    float: left;
+}
+#p1 {
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+    text-align: center;
+}
+#hobby_2cards {
+    margin-left: 10.5%;
+    margin-bottom: 35%;
+}
+#hobby_card1, #hobby_card2 {
+    width: 600px;
+    float: left;
+    margin: 30px;
+}
+#hobby_card2 {
+    padding: 5px;
+}
+.hobby_card2_title {
+    text-align: center;
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+    font-weight: bold;
+}
+.watches_1, .watches_2 {
+    float: left;
+    margin-left: 20%;
+}
+.watches_1 {
+    width: 150px;
+    border: 1px solid black;
+}
+.watches_2 {
+    width: 150px;
+    border: 1px solid black;
+}
+#firstwatch {
+    width: 150px;
+    box-shadow: 5px 5px 5px #666666;
+}
+#secondwatch {
+    width: 150px;
+    box-shadow: 5px 5px 5px #666666;
+}
+#p2 {
+    text-align: center;
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+}
+figcaption {
+    font-size: 8pt;
+    font-style: italic;
+}
+#hobby_card3 {
+    width: 300px;
+    margin-right: 80%;
+    margin-left: 41%;
+    margin-top: 10%;
+    margin-bottom: 30px;
+    padding: 5px;
+}
+.hobby_card3_title {
+    text-align: center;
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+    font-weight: bold;
+}
+#exp_cards {
+    margin-left: 5%;
+    margin-bottom: 40%;
+}
+.exp_card1_contents {
+    margin: 50px;
+}
+.exp_card1, .exp_card2, .exp_card3 {
+    width: 420px;
+    height: auto;
+    float: left;
+    margin: 40px;
+    text-align: center;
+}
+#p4 {
+    margin-top: 18%;
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+}
+#ames1, #ames2 {
+    width: 190px;
+    float: left;
+    margin: 5px;
+}
+.jayworks {
+    margin-left: 85px;
+}
+#jay_mcc {
+    width: 150px;
+    border: 1px solid black;
+}
+#p3 {
+    text-align: center;
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+}
+h3 {
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+    font-weight: bold;
+}
+
+#jay_ames {
+    width: 150px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px #666666;
+}
+#cash_report {
+    width: 150px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px #666666;
+}
+#experience {
+    text-align: center;
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+}
+#schoolsign, #associate {
+    width: 190px;
+    float: left;
+    margin: 10px;
+}
+#metro {
+    width: 150px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px #666666;
+}
+#graduate {
+    width: 150px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px #666666;
+}
+#p5 {
+    margin-top: 12%;
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+}
+#p6 {
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+}
+#bellevue {
+    width: 150px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px #666666;
+}
+#p_contact {
+    text-align: center;
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+    font-weight: normal;
+}
+#connectform {
+    width: 550px;
+    margin-left: 35%;
+    margin-bottom: 10px;
+}
+form {
+    margin-left: 50px;
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+}
+#contact_links {
+    margin-bottom: 10px;
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+    font-weight: bold;
+}
+#exp_links {
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+    font-weight: bold;
+}
+footer {
+	font-family:'PT Sans Narrow', Arial, sans-serif ;
+	font-size: 0.70em;
+	text-align: center;
+	font-style: italic;
+	padding: 5px;
+	margin-left: 0;
+	background-color: #806517;
+}
+footer nav {
+    text-decoration: none;
+}
+footer nav ul li {
+	padding: 10px;
+    font-family:'PT Sans Narrow', Arial, sans-serif ;
+	font-size: 0.90em;
+    border: none;
+}
+footer nav ul li a:link {
+	color: #d4a017;
+	background-color: transparent;
+	text-decoration: none;
+}
